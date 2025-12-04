@@ -1,4 +1,5 @@
 🎉 CodeAlpha Internship — Task 1 
+
 📸✨ Interactive Image Gallery
 
 Welcome to my fun, colorful, and fully responsive Image Gallery! This project is part of my Frontend Development Internship at CodeAlpha, where I’m learning how to build beautiful and interactive web pages using HTML, CSS, and JavaScript. 💻🌟
@@ -83,5 +84,5 @@ All the images used in this project are proudly sourced from Pinterest.
 
 Treasure Nxazonke 🌟 Frontend Developer 🌟 CodeAlpha Intern
 
-Thank you for stopping by! 
+Thank you for stopping by!💖 
 💖 Feel free to ⭐ star this repo if you love the design!
